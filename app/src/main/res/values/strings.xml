@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">LISA NORDEN</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_lisa">About Lisa</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="social">Social</string>
+    <string name="contact">Contact</string>
+    <string name="results">Results</string>
+    <string name="News">News</string>
+    <string name="Long_About_Lisa">
+        <b>Born:</b>\n In Kristianstad, Sweden, 1984 \n
+        <b>Height:</b>\n 176cm \n
+        <b>Weight:</b>\n 59kg \n
+        <b>Coach:</b>\n Darren Smith and Fredrik Lundin (swim coach in Stockholm) \n
+        <b>Training week:</b>\n 25-30hrs \n
+        <b>Strength:</b>\n Strong bike and run combo \n
+        <b>Base</b>:\n Stockholm \n
+        <b>Favorite place:</b>\n Sydney \n
+        <b>Favorite food:</b>\n swiss bread \n
+        <b>Weakness:</b>\n coffee \n
+        <b>Favorite quote:</b>\n “Pain is weakness leaving the body” \n
+        <b>Background:</b>\n Eventing (horseriding) \n
+        <b>Wanted to be when I was a kid:</b>\n Airhostess or princess
+        \n
+    </string>
+    <string name="Long_Results">
+        \n
+        <b> 2012 Seasons results: </b> \n
+        <i>
+            10th ITU World Cup Mooloolaba\n
+            17th ITU World Triathlon Series Sydney \n
+            2nd ITU World Triathlon Series Kitzbuehel \n
+            2nd 5150 Zurich Triathlon \n
+            Olympic Games Silver medalist London \n
+            1st ITU World Triathlon Series Stockholm \n
+            1st 5150 Hy-Vee Triathlon \n
+            1st ITU World Triathlon Series Yokohama\n
+            4th ITU World Triathlon Series Grand Final Auckland \n
+            ITU World Triathlon Champion \n
+        </i>
+        \n
+        <b> 2011 Seasons results: </b> \n
+        <i>
+            Winner of the Hy-Vee Triathlon Des Moines \n
+            Winner of the Los Angeles Triathlon (3rd year in a row) \n
+    `       Winner of the Toyota US Open Dallas Triathlon (4th year in a row) \n
+            4th Beijing Dextro Energy ITU World Championship Series GRAND FINAL \n
+            7th Yokohama Dextro Energy ITU World Championship Series (counts towards 2012) \n
+            9th Sydney Dextro Energy ITU World Championship Series \n
+            9th Overall in the Dextro Energy ITU World Championship Series \n
+        </i>
+        \n
+        <b> 2010 Seasons results: </b> \n
+        <i>
+            ITU Sprint World Champion, Lausanne \n
+            Bronze medallist Dextro Energy ITU World Champsionship Series \n
+            Bronze medallist European Championships, Athlone \n
+            1st Hamburg Dextro Energy ITU World Championship Series \n
+            2nd Kitzbühel Dextro Energy ITU World Championship Series \n
+            4th Budapest Dextro Energy ITU World Championship Series FINAL \n
+            5th Sydney Dextro Energy ITU World Championship Series \n
+            1st Kaiser Permanente Los Angeles Triathlon \n
+            1st US Open Dallas Triathlon \n
+            1st Gladbeck German Bundesliga \n
+            1st Witten German Bundesliga \n
+            1st Schliersee German (open) National Champsionships \n
+        </i>
+        \n
+        <b> 2009 Season results: </b> \n
+        <i>
+            Silver Medalist at the Dextro Energy  ITU World Championship Series \n
+            2nd Gold Coast Dextro Energy  ITU World Championship Series Final \n
+            1st Yokohama Dextro Energy  ITU World Championship Series Race \n
+            2nd Hamburg Dextro Energy  ITU World Championship Series Race \n
+            2nd London Dextro Energy  ITU World Championship Series Race \n
+            2nd Madrid Dextro Energy  ITU World Championship Series Race \n
+            1st Lifetime Fitness Los Angeles Triathlon \n
+            1st Lifetime Fitness Dallas Triathlon \n
+        </i>
+        \n
+        <b>  Season 2008 results: </b> \n
+        <i>
+            Bronze Medalist at the Lisboa ITU European Championships \n
+            1st Lorient ITU World Cup \n
+            2nd New Plymouth ITU World Cup \n
+            3rd Mooloolaba ITU World Cup \n
+            1st Lifetime Fitness Dallas Triathlon \n
+            Swedish Champion \n
+            Swedish Duathlon Champion \n
+        </i>
+        \n
+        <b>  Season 2007 results: </b> \n
+        <i>
+            Gold Medalist at the  Hamburg ITU U23 World Championships \n
+        </i>
+        \n
+    </string>
+    <string name="Lisa_Norden">Lisa Norden</string>
+</resources>

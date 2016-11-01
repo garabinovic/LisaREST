@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.korisnik.lnapp2.MainActivity">
+
+
+    <!--<item-->
+        <!--android:id="@+id/action_settings"-->
+        <!--android:orderInCategory="101"-->
+        <!--android:title="Setting"-->
+        <!--android:icon="@mipmap/ic_setting"-->
+        <!--app:showAsAction="always" />-->
+
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="102"
+        android:title="Reload"
+        android:icon="@mipmap/ic_reloading"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_ab_lisa"
+        android:orderInCategory="110"
+        android:title="@string/about_lisa"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_results"
+        android:orderInCategory="111"
+        android:title="@string/results"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_sponsors"
+        android:orderInCategory="112"
+        android:title="@string/sponsors"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_social"
+        android:orderInCategory="113"
+        android:title="@string/social"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="114"
+        android:title="@string/contact"
+        app:showAsAction="ifRoom" />
+</menu>
